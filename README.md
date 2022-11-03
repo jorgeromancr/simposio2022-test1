@@ -24,7 +24,7 @@ When a clicked link or programmatic request invokes a web URI intent, the Androi
 [Registration form](konradapp://forms.gle/QLKHJUne9JfS832Z9?blue)
 
 
-![Image](https://lh5.googleusercontent.com/Wrh7Cw89WviUUyj6H6k_kEKNXrGJ3RoLODwjhh0eaUbAz4xLxPm37P7afH3RsRykWyGpcVHHrP_VVdlp1l5FQVI=w16383)
+![Image](https://www.sa.ucr.ac.cr/web/wp-content/themes/sinmata/images/logo-ucr.png)
 
 
 For more information see [Android documentation](https://developer.android.com/training/app-links/deep-linking).
