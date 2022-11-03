@@ -1,4 +1,4 @@
-## Android Deep-linking demo
+## Android Deep-linking - Simposio IE 2022 
 
 ```markdown
 When a clicked link or programmatic request invokes a web URI intent, the Android system tries each of the following actions, in sequential order, until the request succeeds:
@@ -24,7 +24,7 @@ When a clicked link or programmatic request invokes a web URI intent, the Androi
 [Registration form](konradapp://forms.gle/QLKHJUne9JfS832Z9?blue)
 
 
-![Image](https://utek.skule.ca/imgs/konrad-logo-full.jpg)
+![Image](https://lh5.googleusercontent.com/Wrh7Cw89WviUUyj6H6k_kEKNXrGJ3RoLODwjhh0eaUbAz4xLxPm37P7afH3RsRykWyGpcVHHrP_VVdlp1l5FQVI=w16383)
 
 
 For more information see [Android documentation](https://developer.android.com/training/app-links/deep-linking).
